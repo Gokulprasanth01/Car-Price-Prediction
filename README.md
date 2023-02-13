@@ -5,7 +5,7 @@
 
 ## Dataset
 
-#### Dataset taken from kaggle [Dataset](https://www.kaggle.com/datasets/ashydv/car-price-prediction)
+#### Thanks Kaggle to find my [Dataset](https://www.kaggle.com/datasets/ashydv/car-price-prediction) to use
 
 ## Pre-Processing
 
