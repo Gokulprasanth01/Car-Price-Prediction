@@ -30,9 +30,11 @@
 #### Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting.
 
 ###   Tools : `Python`, `Power BI`
-### ![Screenshot_20230213_120249](https://user-images.githubusercontent.com/116962572/218387608-81bd55f8-2a74-4307-bf8f-05379a47d2e0.png)
-### ![image](https://user-images.githubusercontent.com/116962572/218387740-6a8426fc-c954-4c58-8ac8-310c7c2d0929.png)
-### ![image](https://user-images.githubusercontent.com/116962572/218387790-13cc0488-7e67-458a-9021-e87b27589933.png)
+
+![image](https://user-images.githubusercontent.com/116962572/218403639-58e2bfca-5bed-485e-bb31-f98f166faf06.png)
+![image](https://user-images.githubusercontent.com/116962572/218403684-e1ad2e1d-f995-4556-ba99-958b5567dbb9.png)
+![image](https://user-images.githubusercontent.com/116962572/218403723-41c61ba3-e66b-49ba-846d-dc1540e0a2e1.png)
+
 
 
 #### Car Price Prediction DashBoard | [Link](https://app.powerbi.com/groups/me/reports/b6942304-7504-47a5-8860-12fd2f6626f4/ReportSection)
